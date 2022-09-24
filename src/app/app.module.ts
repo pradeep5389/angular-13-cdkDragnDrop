@@ -13,8 +13,7 @@ import { DragDropModule } from '@angular/cdk/drag-drop';
     BrowserModule,
     FormsModule,
     CommonModule,
-    DragDropModule,
-    ScrollingModule,
+    DragDropModule
   ],
   entryComponents: [ListItemComponent, CdkDragDropNestedListsExample],
   providers: [],
